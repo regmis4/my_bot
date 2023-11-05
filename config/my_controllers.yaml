@@ -12,7 +12,7 @@ controller_manager:
 diff_cont:
   ros__parameters:
 
-    publish_rate: 50
+    publish_rate: 50.0
 
     base_frame_id: base_link
 
